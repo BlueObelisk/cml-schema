@@ -598,6 +598,7 @@
                     <xsd:enumeration value="Eu"/>
                     <xsd:enumeration value="F"/>
                     <xsd:enumeration value="Fe"/>
+                    <xsd:enumeration value="Fl"/>
                     <xsd:enumeration value="Fm"/>
                     <xsd:enumeration value="Fr"/>
                     <xsd:enumeration value="Ga"/>
@@ -631,6 +632,7 @@
                     <xsd:enumeration value="Li"/>
                     <xsd:enumeration value="Lr"/>
                     <xsd:enumeration value="Lu"/>
+                    <xsd:enumeration value="Lv"/>
                     <xsd:enumeration value="Md"/>
                     <xsd:enumeration value="Mg"/>
                     <xsd:enumeration value="Mn"/>
