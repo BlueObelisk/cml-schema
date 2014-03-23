@@ -19,6 +19,12 @@ License
 
 The schema is licensed under the Artistic License 2.0, as detailed in the LICENSE file.
 
+Past Repositories
+-----------------
+
+* https://bitbucket.org/wwmm/cmlxom/src/c42fee3ff651c148c06f538d0f257b911727583f/src/main/resources/org/xmlcml/cml/base/?at=default
+* https://sourceforge.net/p/cml/code/HEAD/tree/schema2/trunk/
+
 Read
 ----
 
