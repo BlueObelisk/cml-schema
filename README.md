@@ -12,7 +12,8 @@ I cannot do justice to all author, but clearly the inventors and leads are:
 
 Peter Murray-Rust, Henry Rzepa
 
-But many more have contributed to the development and maintenance of CML.
+But many more have contributed to the development and maintenance of CML, including
+at least Jim Downing.
 
 License
 -------
