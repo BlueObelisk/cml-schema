@@ -2817,7 +2817,7 @@
                     <xsd:enumeration value="glass">
                         <xsd:annotation>
                             <xsd:documentation>
-                                <h:div>A glassy stat.</h:div>
+                                <h:div>A glassy state.</h:div>
                             </xsd:documentation>
                         </xsd:annotation>
                     </xsd:enumeration>
